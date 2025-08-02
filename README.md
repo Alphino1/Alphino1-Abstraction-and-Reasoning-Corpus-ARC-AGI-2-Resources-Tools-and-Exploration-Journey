@@ -102,7 +102,7 @@ If you know of other grants or tools that could help, please share them: I would
 
 #### A Personal Note
 
-Searching for compute support was a bit of a trek, but finding these opportunities felt like a win. I have been lucky to get accepted for most of them (except Strong Compute, which I skipped for now), and I am still waiting to hear back from Google. Sharing this feels right: it is something I wish I would known about sooner, and I hope it saves someone else some time. Good luck to everyone tackling the ARC Prize 2025: I am rooting for us all.
+Searching for compute support was a bit of a trek, but finding these opportunities felt like a win. I have been lucky to get accepted for most of them (except Strong Compute, which I skipped for now). Sharing this feels right: it is something I wish I would known about sooner, and I hope it saves someone else some time. Good luck to everyone tackling the ARC Prize 2025: I am rooting for us all.
 
 ---
 
